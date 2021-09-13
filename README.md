@@ -8,7 +8,7 @@ This project is a matlab Simulink model for a F250 quadrotor based on Simscape. 
 # Preview
 You may view the simulation results in "F250Demo.gif".
 
-Video: https://www.bilibili.com/video/BV1fK4y1G7jF
+Video: https://www.bilibili.com/video/BV1Qq4y1Z7db
 
 # Contains
 
@@ -27,5 +27,6 @@ https://blog.csdn.net/mkb9559/article/details/107314632
 https://blog.csdn.net/mkb9559/article/details/107316122
 
 For F250：
+https://blog.csdn.net/mkb9559/article/details/120154542
 
-
+https://blog.csdn.net/mkb9559/article/details/120268046
