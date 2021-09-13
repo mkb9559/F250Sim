@@ -19,7 +19,7 @@ Video: https://www.bilibili.com/video/BV1Qq4y1Z7db
 # Documentation
 Sorry, there are only some documents in Chinese.
 
-For first generation(https://github.com/mkb9559/Simscape-Quadrotor):
+For first generation (https://github.com/mkb9559/Simscape-Quadrotor):
 
 https://blog.csdn.net/mkb9559/article/details/107225711
 
