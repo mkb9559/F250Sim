@@ -1,5 +1,6 @@
 # F250Sim
 This project is a matlab Simulink model for a F250 quadrotor based on Simscape. (Matlab 2020b)
+![image](https://github.com/mkb9559/F250Sim/blob/main/Model.PNG)
 
 # Requirement
  - Your Matlab version must be higher than Matlab 2020b, due to some modular required. (The author developed this model on Matlab 2020b.)
